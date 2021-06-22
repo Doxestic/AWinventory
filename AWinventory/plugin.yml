@@ -1,0 +1,6 @@
+---
+name: AWinventory
+version: 0.1-alpha
+main: Doxestic\AWinventory\Main
+api: 3.0.0
+...
